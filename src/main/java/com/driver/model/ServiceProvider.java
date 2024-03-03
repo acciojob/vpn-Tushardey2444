@@ -1,7 +1,7 @@
 package com.driver.model;
 
 import javax.persistence.*;
-import java.util.List;
+import java.util.*;
 
 @Entity
 public class ServiceProvider {
